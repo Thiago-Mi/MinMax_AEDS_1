@@ -15,17 +15,17 @@ Implementações
 MaxMin1
 
     Descrição: Percorre o vetor uma vez para encontrar o maior e o menor número.
-    Complexidade: O(n)
+    
 
 MaxMin2
 
     Descrição: Percorre o vetor uma vez, utilizando um if e else if para encontrar o maior e o menor número.
-    Complexidade: O(n)
+    
 
 MaxMin3
 
     Descrição: Divide o vetor em pares, comparando o maior e o menor de cada par, e depois compara com os valores globais.
-    Complexidade: O(n)
+    
 
 Detalhes da Implementação
 
